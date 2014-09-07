@@ -1,3 +1,7 @@
+/*
+ *Pequeña demostración de una suma con el lenguaje c. 
+*/
+
 #include <stdio.h>
 int main()
 {
