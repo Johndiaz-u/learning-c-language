@@ -12,3 +12,19 @@ int main()
 	printf("La suma de A+B = %d\n", suma);
 	return 0;
 }
+
+
+//Maximo se puede hacer asi.
+
+#include <stdio.h
+int main (){
+	
+	int x,y,resultado;
+	x=5;
+	y=8;
+	printf("%d+%d=%d/n",z,y,resultado);
+	
+	return 0;
+	
+	
+}
