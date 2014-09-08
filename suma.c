@@ -16,7 +16,7 @@ int main()
 
 //Maximo se puede hacer asi.
 
-#include <stdio.h
+#include <stdio.h>
 int main (){
 	
 	int x,y,resultado;
