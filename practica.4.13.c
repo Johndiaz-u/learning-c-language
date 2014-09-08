@@ -37,3 +37,23 @@ int main(int argc, char **argv){
 	return 0;
 }
 
+//Dale ojo
+
+#include <stdio.h>
+
+int main(int argc, char **argv){
+	float radio, pi, lon, area;
+	scanf("%f",&radio);
+	lon=(2*pi*radio);
+	area=(2*pi*radio*radio);
+	printf("%f*%f*%f=%f/n",2,pi,radio,lon);
+	printf("%f*%f*%f*%f=%f/n",2,pi,radio,radio,area);
+	
+	return 0;
+	
+}
+
+
+
+
+
