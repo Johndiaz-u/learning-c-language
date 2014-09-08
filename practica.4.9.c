@@ -35,3 +35,21 @@ int main(int argc, char **argv){
 	return 0;
 }
 
+//Se puede hacer de esta manera.
+
+#include <stdio.h>
+int main(int argc, char **argv){
+	float x, z, area;
+	area=x*y;
+	printf("%d*%d=%d",x,z,area);
+	return: 0;
+}
+
+
+
+
+
+
+
+
+
