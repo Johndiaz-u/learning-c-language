@@ -14,17 +14,14 @@ int main()
 }
 
 
-//Maximo se puede hacer asi.
+//Se puede hacer asi.
 
 #include <stdio.h>
 int main (){
 	
-	int x,y,resultado;
-	x=5;
-	y=8;
+	int z,y,resultado;
+	scanf("%d %d"&z, &y);
+	resultado = z+y;
 	printf("%d+%d=%d/n",z,y,resultado);
-	
 	return 0;
-	
-	
 }
